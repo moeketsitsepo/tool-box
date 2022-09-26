@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+	<meta content ="UIF-8/">
+	<head>
+	<link href="style.css"  rel="styleSheet" type ="text/css">
+	<style>
+	background{
+	color:#F0F8FF;
+	}
+	
+	</style>
+	</head>
+	<body>
+	
+				
+					
+	
+	</body>
+	<script>
+	Function runClock() {
+	/*This current time(14:00) */
+	}
+	</script>
+</html>

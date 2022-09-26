@@ -1,0 +1,73 @@
+import java.util.Scanner;
+public class Engineering
+{
+	public static void main(String [] args ) 
+	{
+		Scanner kb = new Scanner(System.in); 
+		int mark1, mark2, mark3, mark4;
+		boolean bflag1, bflag2,bflag3; 
+		double rAvg;
+		System.out.println("if your subject is Physical Science enter <P/p> :");
+		String iSubject = kb.next();
+		System.out.println("if your subject is Physical Science enter <M/m> :");
+		String iSubject1 = kb.next();
+		if(iSubject.equalsIgnoreCase("P") && iSubject1.equalsIgnoreCase("M"))
+		{
+		System.out.println("what is your physical science :");
+		phys = kb.nextInt();
+		System.out.println("what is your Mathematics :");
+		math = kb.nextInt();
+		System.out.println("what is your english :");
+		eng = kb.nextInt();
+		System.out.println("what is your geography:");
+		geo = kb.nextInt();		
+		System.out.println("what is your IT:");
+		IT = kb.nextInt();		
+		System.out.println("what is your Afr:");
+		Afr = kb.nextInt();
+		rAvg= (phys + geo + math + eng + IT + Afr)/6.0;
+		if(rAvg >= 65) 
+		{
+			bflag1 = true;
+		}
+		else 
+		{
+			bflag1 = false;
+		}
+		if(!phs < 60 && math < 60 && eng < 60 && IT  < 60 && Afr < 60 && geo < 60 ) 
+		{
+			bflag2 = true;
+		}
+		else
+		{
+			bflag2 = false; 
+		}
+		if(phs > 80 && math > 80 && eng > 80 &&  IT > 80)
+			{
+			bflag3 = true;
+		
+		}
+		else 
+		{
+			bflag3 = false;
+		}
+		if(phs > 70 && math > 70 && eng > 70 && IT > 70 && Afr > 70 && geo > 70) 
+		{
+			bflag4 = true;
+		}
+		else 
+		{
+			bflag4 = false;
+		}
+		if(bflag1 == true && bflag2 == true && bflag3 == true && bflag4 == true) 
+		{
+			System.out.println(" Do qualify");
+		}
+		else 
+		{
+			System.out.println(" Do not qualify");
+		}
+	  }
+	}
+		
+}

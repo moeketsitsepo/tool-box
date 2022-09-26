@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<head>
+
+<style>
+address{
+font-size:90%;
+font-style:italic;
+}
+
+img{
+	width="67%";
+	height="45%";
+}
+table, th, td {
+	border:1px solid black;
+	
+}
+body {
+background-image: url("gt.jfif");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+
+}
+video{
+width="29%" ;
+height"29%";
+align:"left-side";
+}
+
+p{
+	font-style:italic;
+	color:red;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+<table b style="color:pink">
+
+
+<tr>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YmJkNzRmY2MtYjMwNS00NWQxLWEwOWQtNjdlNjQzYWY2Y2Rl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252287fec213-d1e2-4e24-87be-4a1635ab9514%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=cca6677d-9be2-4e12-95e3-e6880cfa5106&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="php.jfif" alt="php.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3AAllgNIu-bOq-n91__BuxLfMVss1NP4L4C2GnSckYjyY1%40thread.tacv2%2F1645681640274%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252252aeff90-1465-4769-9845-5e4b8e631bcc%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b34b53d9-9946-4baf-a98d-1323f0c575b0&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="fos.jfif" alt="fos.jfif" width="67%" height="40%">
+	</a>
+	</th>
+	<th>
+	<a   href="">
+	<img src="mc.jfif" alt="mc.jfif" width="67%%" height="12%">
+	</a>
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3AaNuiDM75orvofa3aboXSUmkc0MngrpGAMqOp4We_1hk1%40thread.tacv2%2F1650520004949%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%25220629fd28-8941-43b3-80b0-9665006f9e74%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=6ad719c1-405f-47ac-815e-7c643574cdfc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="Esc.jfif" alt="Esc.jfif" width="67%" height="40%">
+	</a>
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NjdjODQ5ZmItODRmZC00ZDRhLTk1NjEtNTdhM2IyMWEwNjE1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252224cebfe3-482a-4e0c-8000-9eed0ff309f5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=76503305-2f11-457d-b08d-d1892de6c79e&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="de.jfif" alt="de.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YmI5ZjEyNzgtNjFmMC00NDBkLWFkYTYtYmUwY2U2NTU2NTM5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252244146235-dde7-43e8-a05b-008841b15906%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1655bba7-0c82-4b8a-825d-172ba6f88425&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="inf.jfif" alt="inf.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	
+</tr>
+<tr>
+<td>PPA115D:
+<br>
+<address>
+email for<a href ="R Makhubela">
+Mr R Makhubela
+</a>
+</td>	
+<td>CFA115D:
+<br>
+<address>
+email for<a href ="F Muhlongo">
+Mr F Muhlongo
+</a>
+</td>
+<address>
+email for<a href ="4@tut.ac.za">
+Miss BN Mahlangu
+</a>
+</td>	
+<td>LFS125C:
+<br>
+<address>
+email for<a href ="FreemeES@tut.ac.za">
+Mrs Freeme
+</a>
+</td>	
+<td>INFS125X:
+<br>
+<address>
+email for<a href ="BothaL4@tut.ac.za">
+Mrs Botha
+</a>
+</td>	
+		
+</tr>
+</table>
+
+	<center>
+	<a href="https://mytutord2l.tut.ac.za/d2l/home">
+	<img src="er.png" alt="er.png" height="300px" width="300px">
+	</a>
+	</center>
+
+<p>  </p>	
+
+</body>
+</html>

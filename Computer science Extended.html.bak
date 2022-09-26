@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<head>
+
+<style>
+address{
+font-size:90%;
+font-style:italic;
+}
+
+img{
+	width="67%";
+	height="45%";
+}
+table, th, td {
+	border:1px solid black;
+	
+}
+body {
+background-image: url("ppa2.jfif");
+
+}
+video{
+width="29%" ;
+height"29%";
+align:"left-side";
+}
+a {
+	font-size:40%;
+	font-style:color="Red";
+}
+
+p{
+	font-style:italic;
+	color:red;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<table b style="color:yellow">
+
+
+<tr>
+	<th>
+	<a   href="##">
+	<img src="ppa.jfif" alt="ppa.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	<th>
+	<a   href="##">
+	<img src="fundements.jfif" alt="fundements.jfif" width="67%" height="40%">
+	</a>
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3ATFlsWheIG20uK6MpWCTxcGoUVHE7zk-NFEiTp6PtWq01%40thread.tacv2%2F1650820666682%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%25223e7269ee-5fba-434a-8ab1-f4088d7f764b%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=fe4ef15a-6048-426c-b713-e885550dd179&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="COH.jfif" alt="COH.jfif" width="67%%" height="12%">
+	</a>
+	</th>
+	<th>
+	<a   href="##">
+	<img src="communication.jfif" alt="communication.jfif" width="67%" height="40%">
+	</a>
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NjdjODQ5ZmItODRmZC00ZDRhLTk1NjEtNTdhM2IyMWEwNjE1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252224cebfe3-482a-4e0c-8000-9eed0ff309f5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=76503305-2f11-457d-b08d-d1892de6c79e&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="de.jfif" alt="de.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	<th>
+	<a   href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YmI5ZjEyNzgtNjFmMC00NDBkLWFkYTYtYmUwY2U2NTU2NTM5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25223df74539-9453-4d03-bb9d-b9102cb9ce9c%2522%252c%2522Oid%2522%253a%252244146235-dde7-43e8-a05b-008841b15906%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1655bba7-0c82-4b8a-825d-172ba6f88425&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true">
+	<img src="inf.jfif" alt="inf.jfif" width="67%" height="40%">
+	</a>	
+	</th>
+	
+</tr>
+
+	<tr>
+	
+	<td>PPA:
+	<br>
+	<address>
+	email for<a href ="MphetiTP@tut.ac.za">
+	 Mr TP Mpheti</a>
+	 </td>	
+	<td>CFA:
+	<br>
+	<address>
+	email for<a href ="">
+	Mr Mabuza
+	</td>	
+	<td>COH:
+	<br>
+	<address>
+	email for<a href ="ThibaCT@tut.ac.za">
+	Mr CT Thiba</a>
+	</td>	
+	<td>CAP:
+	<br>
+	<address>
+	email for<a href ="ShingangePC@tut.ac.za">
+	Miss PC Shingange</a>
+	</td>	
+	<td>LFS:
+	<br>
+	<address>
+	email for<a href ="FreemeES@tut.ac.za">
+	Mrs ES Freeme</a>
+	</td>	
+	<td>INF:
+	<br>
+	<address>
+	email for<a href ="BothaL4@tut.ac.za">
+	Mrs L Botha</a>
+	</td>	
+			
+	</tr>
+</table>
+	<center>
+	<a href="https://mytutord2l.tut.ac.za/d2l/home">
+	<img src="er.png" alt="er.png" height="300px" width="300px">
+	</a>
+	</center>
+<p>we </p>
+</body>
+</html>
